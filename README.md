@@ -9,10 +9,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on auxiliar de loja 2
 - 🌱 I’m currently learning desenvolvimento de sowftwer
-- 👯 I’m looking to collaborate on alguma empresa relacionada na are de programação e digital
+- 👯 I’m looking to collaborate on alguma empresa relacionada na areá de programação e digital
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: voce pode acessar o meu linkedin:https://www.linkedin.com/feed/
 - 😄 Pronouns: Ele
 - ⚡ Fun fact: gosto de praticar artes marcias
 -->
